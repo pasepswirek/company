@@ -1,0 +1,8 @@
+Adam;Kowalski;M;2;3000.0;30;2;true
+Paweł;Sepko;M;0;4000.0;33;3;false
+Adam;Kowalski;M;2;3000.0;30;2;true
+Paweł;Sepko;M;0;4000.0;33;2;false
+Adam;Kowalski;M;2;3000.0;30;2;true
+Paweł;Sepko;M;0;4000.0;33;2;false
+Adam;Kowalski;M;2;3000.0;30;2;true
+Paweł;Sepko;M;0;4000.0;33;2;false
