@@ -58,7 +58,6 @@ public class AppCompany {
                         System.out.println("1 - Employees with a salary no less");
                         System.out.println("2 - Average salary in the department");
                         System.out.println("3 - Largest salary men/women");
-                        System.out.println("4 - Department info");
                         System.out.println("5 - Average salary women/men");
                         System.out.println("6 - Incraase salary 10%");
                         System.out.println("7 - Incraase salary amount...:");
@@ -75,9 +74,6 @@ public class AppCompany {
                                 break;
                             case 3:
                                 paymentCalculations.largestSalary();
-                                break;
-                            case 4:
-                                paymentCalculations.departmentInfo();
                                 break;
                             case 5:
                                 paymentCalculations.avaregeSalaryWomenMen();
