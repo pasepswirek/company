@@ -1,4 +1,4 @@
-package pl.pawelsepko;
+package pl.pasepswirek;
 
 import org.junit.Test;
 

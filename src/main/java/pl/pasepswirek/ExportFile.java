@@ -1,4 +1,4 @@
-package pl.pawelsepko;
+package pl.pasepswirek;
 
 import java.io.BufferedWriter;
 import java.io.FileNotFoundException;

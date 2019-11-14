@@ -1,4 +1,4 @@
-package pl.pawelsepko;
+package pl.pasepswirek;
 
 import lombok.*;
 import java.io.FileNotFoundException;

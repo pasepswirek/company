@@ -1,8 +1,7 @@
-package pl.pawelsepko;
+package pl.pasepswirek;
 
 import lombok.*;
 
-import java.io.Serializable;
 import java.util.StringJoiner;
 
 @Getter
